@@ -7,7 +7,7 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
 import { MyIdeasComponent } from './ideas/my-ideas.component';
-import { NavigationComponent } from './Navigation/navigation.component';
+import { NavigationComponent } from './navigation/navigation.component';
 
 @NgModule({
     bootstrap: [
