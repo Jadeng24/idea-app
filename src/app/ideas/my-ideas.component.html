@@ -1,0 +1,7 @@
+<StackLayout>
+  <TextField hint="What is your idea?" [(ngModel)]="myIdea"></TextField>
+  <Label text="Take a walk every day!"></Label>
+  <button (tap)="saveIdea()" text="Save Idea"></button>
+  <Label [text]="myIdea"></Label>
+  <Label [text]="currentIdea"></Label>
+</StackLayout>

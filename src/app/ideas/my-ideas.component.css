@@ -1,0 +1,15 @@
+StackLayout {
+  padding: 16px;
+  border-color: dodgerblue;
+  border-width: 8;
+}
+
+Button {
+  border-color: dodgerblue;
+  border-width: 3;
+  width: 250;
+  padding: 5 10;
+  border-radius: 8%;
+  margin: 4 0;
+  background: grey;
+}
